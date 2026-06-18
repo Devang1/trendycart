@@ -1,0 +1,626 @@
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\0.pack.gz'
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+ ⨯ Failed to generate static paths for /api/auth/[...nextauth]:
+TypeError: Cannot read properties of undefined (reading 'call')
+    at __webpack_exec__ (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:294:39)
+    at <unknown> (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:295:517)
+    at <unknown> (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:295:47)
+    at Object.<anonymous> (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:298:3) {
+  type: 'TypeError'
+}
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⨯ TypeError: Cannot read properties of undefined (reading 'call')
+    at __webpack_exec__ (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:294:39)
+    at <unknown> (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:295:517)
+    at <unknown> (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:295:47)
+    at Object.<anonymous> (C:\Users\user\Downloads\trendycart\trendycart\.next\server\app\api\auth\[...nextauth]\route.js:298:3) {
+  type: 'TypeError',
+  page: '/api/auth/session'
+}
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/shared/lib/router/router.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\0.pack.gz_' -> 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\0.pack.gz'
+ ⚠ Fast Refresh had to perform a full reload when ./node_modules/next/dist/shared/lib/router/router.js changed. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+ ⚠ Fast Refresh had to perform a full reload. Read more: https://nextjs.org/docs/messages/fast-refresh-reload
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: Decimal, discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                           ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: Decimal, stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: ..., reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., sellerId: ..., categoryId: ..., name: ..., slug: ..., description: ..., price: ..., discountPrice: ..., stock: ..., images: ..., brand: ..., featured: ..., approved: ..., rating: Decimal, reviewCount: ..., specifications: ..., tags: ..., sku: ..., lowStockAlert: ..., createdAt: ..., updatedAt: ..., category: ..., categories: ..., seller: ...}
+                                                                                                                                                                                               ^^^^^^^
+Only plain objects can be passed to Client Components from Server Components. Decimal objects are not supported.
+  {id: ..., userId: ..., storeName: ..., slug: ..., storeLogo: ..., description: ..., approvalStatus: ..., commissionRate: Decimal, verifiedAt: ..., createdAt: ..., updatedAt: ...}
+                                                                                                                           ^^^^^^^
+[Error: ENOENT: no such file or directory, stat 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\4.pack.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\user\\Downloads\\trendycart\\trendycart\\.next\\cache\\webpack\\client-development\\4.pack.gz'
+}
+ ⨯ unhandledRejection: [Error: ENOENT: no such file or directory, stat 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\4.pack.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\user\\Downloads\\trendycart\\trendycart\\.next\\cache\\webpack\\client-development\\4.pack.gz'
+}
+ ⨯ unhandledRejection:  [Error: ENOENT: no such file or directory, stat 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\4.pack.gz'] {
+  errno: -4058,
+  code: 'ENOENT',
+  syscall: 'stat',
+  path: 'C:\\Users\\user\\Downloads\\trendycart\\trendycart\\.next\\cache\\webpack\\client-development\\4.pack.gz'
+}
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, stat 'C:\Users\user\Downloads\trendycart\trendycart\.next\cache\webpack\client-development\4.pack.gz'
