@@ -90,7 +90,7 @@ export default async function WishlistPage() {
               </p>
             </div>
             <a
-              href="/products"
+              href="/shop"
               className="inline-flex items-center gap-2 mt-2 px-6 py-2.5 bg-primary text-primary-foreground rounded-lg hover:opacity-90 transition-opacity text-sm font-medium"
             >
               <ShoppingBag className="h-4 w-4" />
