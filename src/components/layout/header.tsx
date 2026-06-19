@@ -20,10 +20,22 @@ export function Header() {
     <>
     <header className="sticky top-0 z-50 border-b bg-card/95 shadow-sm backdrop-blur-xl">
       <div className="container flex min-h-14 items-center gap-2 py-2 md:gap-3">
-        <Link href="/" className="group flex min-w-0 shrink-0 items-center gap-2 rounded-lg bg-primary px-2 py-2 text-sm font-black tracking-normal text-primary-foreground transition hover:-translate-y-0.5 sm:px-2.5 sm:text-base">
-          <span className="flex h-7 w-7 items-center justify-center rounded-md bg-white text-xs text-primary sm:text-sm">TC</span>
-          <span className="hidden truncate sm:inline">TrendyCart</span>
-        </Link>
+        <Link href="/" className="flex items-center gap-3">
+  <img
+    src="/logo-icon.png"
+    alt="TrendysCart"
+    className="h-10 w-10 object-contain"
+  />
+
+  <div className="hidden sm:block">
+    <h1 className="text-xl font-black text-[#1F2B46]">
+      TrendysCart
+    </h1>
+    <p className="text-xs text-muted-foreground">
+      Smart Shopping
+    </p>
+  </div>
+</Link>
         <form action="/search" className="flex h-10 min-w-0 flex-1 items-center rounded-md border bg-background px-2 shadow-sm transition focus-within:border-primary focus-within:ring-2 focus-within:ring-primary/15 md:h-11 md:max-w-4xl md:border-2 md:px-3">
           <Search className="h-4 w-4 text-muted-foreground" />
           <input name="q" placeholder="Search products" className="h-9 min-w-0 flex-1 bg-transparent px-2 text-sm outline-none md:h-10 md:px-3 md:placeholder:text-muted-foreground" />
