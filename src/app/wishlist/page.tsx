@@ -104,7 +104,7 @@ export default async function WishlistPage() {
       {items.length > 0 && (
         <div className="mt-6 md:mt-8 flex justify-center">
           <a
-            href="/products"
+            href="/shop"
             className="text-sm text-muted-foreground hover:text-primary transition-colors flex items-center gap-2"
           >
             <ShoppingBag className="h-4 w-4" />
