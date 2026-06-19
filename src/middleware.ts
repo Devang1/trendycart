@@ -3,14 +3,10 @@ import { NextResponse } from "next/server";
 
 export default withAuth(
   function middleware(req) {
-    console.log("PATH:", req.nextUrl.pathname);
-    console.log("TOKEN:", req.nextauth.token);
-
     const role = req.nextauth.token?.role;
     const pathname = req.nextUrl.pathname;
 
     if (pathname.startsWith("/admin") && role !== "ADMIN") {
-      console.log("Admin access denied");
       return NextResponse.redirect(new URL("/", req.url));
     }
 
@@ -18,19 +14,17 @@ export default withAuth(
       pathname.startsWith("/seller") &&
       !["SELLER", "ADMIN"].includes(String(role))
     ) {
-      console.log("Seller access denied");
       return NextResponse.redirect(new URL("/", req.url));
     }
 
     return NextResponse.next();
   },
   {
+    secret: process.env.NEXTAUTH_SECRET,
+
     callbacks: {
       authorized: ({ token, req }) => {
-        console.log("AUTHORIZED PATH:", req.nextUrl.pathname);
-        console.log("AUTHORIZED TOKEN:", token);
-
-        const protectedPath = [
+        const protectedPaths = [
           "/admin",
           "/seller",
           "/profile",
@@ -39,11 +33,11 @@ export default withAuth(
           "/wishlist",
         ];
 
-        return protectedPath.some((path) =>
+        const isProtected = protectedPaths.some((path) =>
           req.nextUrl.pathname.startsWith(path)
-        )
-          ? Boolean(token)
-          : true;
+        );
+
+        return isProtected ? !!token : true;
       },
     },
   }
