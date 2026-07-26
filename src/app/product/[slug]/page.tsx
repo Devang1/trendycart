@@ -127,21 +127,22 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         <div className="grid gap-6 lg:grid-cols-2 lg:gap-10">
           {/* Product Images - Mobile Optimized */}
           <div>
+         <div>
   {/* Image Slider */}
-  <div className="relative overflow-hidden rounded-xl">
-    <div className="flex snap-x snap-mandatory overflow-x-auto scroll-smooth scrollbar-hide">
+  <div className="relative overflow-hidden rounded-2xl border bg-muted shadow-sm">
+    <div className="flex snap-x snap-mandatory overflow-x-auto scroll-smooth scrollbar-none [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden">
       {product.images.map((image, index) => (
         <div
           key={image}
           id={`image-${index}`}
-          className="relative aspect-square min-w-full snap-center bg-muted"
+          className="relative aspect-square min-w-full shrink-0 snap-center bg-muted"
         >
           <Image
             src={image}
             alt={`${product.name} ${index + 1}`}
             fill
             priority={index === 0}
-            className="object-cover"
+            className="object-cover transition-transform duration-300 hover:scale-105"
           />
 
           {/* Discount Badge */}
@@ -178,12 +179,12 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
 
   {/* Thumbnail Navigation */}
   {product.images.length > 1 && (
-    <div className="mt-3 flex gap-2 overflow-x-auto pb-2 md:grid md:grid-cols-4 md:gap-3">
+    <div className="mt-5 flex justify-center gap-3 overflow-x-auto pb-2 scrollbar-none [-ms-overflow-style:none] [scrollbar-width:none] [&::-webkit-scrollbar]:hidden md:grid md:grid-cols-5 md:gap-4">
       {product.images.map((image, index) => (
         <a
           key={image}
           href={`#image-${index}`}
-          className="relative aspect-square min-w-[80px] overflow-hidden rounded-lg border-2 bg-muted transition-colors hover:border-primary md:min-w-0"
+          className="relative h-20 w-20 shrink-0 overflow-hidden rounded-xl border border-border bg-card shadow-sm transition-all duration-200 hover:-translate-y-1 hover:border-primary hover:shadow-md md:h-24 md:w-full"
         >
           <Image
             src={image}
