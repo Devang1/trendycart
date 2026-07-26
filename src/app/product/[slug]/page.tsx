@@ -127,46 +127,75 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
         <div className="grid gap-6 lg:grid-cols-2 lg:gap-10">
           {/* Product Images - Mobile Optimized */}
           <div>
-            <div className="relative aspect-square overflow-hidden rounded-xl bg-muted">
-              <Image 
-                src={product.images[0] ?? "/discover.png"}
-                alt={product.name} 
-                fill 
-                priority 
-                className="object-cover" 
-              />
-              {product.discountPrice && (
-                <div className="absolute left-3 top-3 rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground shadow-lg md:left-4 md:top-4">
-                  {Math.round((1 - Number(product.discountPrice) / Number(product.price)) * 100)}% OFF
-                </div>
+  {/* Image Slider */}
+  <div className="relative overflow-hidden rounded-xl">
+    <div className="flex snap-x snap-mandatory overflow-x-auto scroll-smooth scrollbar-hide">
+      {product.images.map((image, index) => (
+        <div
+          key={image}
+          id={`image-${index}`}
+          className="relative aspect-square min-w-full snap-center bg-muted"
+        >
+          <Image
+            src={image}
+            alt={`${product.name} ${index + 1}`}
+            fill
+            priority={index === 0}
+            className="object-cover"
+          />
+
+          {/* Discount Badge */}
+          {index === 0 && product.discountPrice && (
+            <div className="absolute left-3 top-3 rounded-full bg-primary px-3 py-1 text-xs font-bold text-primary-foreground shadow-lg md:left-4 md:top-4">
+              {Math.round(
+                (1 -
+                  Number(product.discountPrice) / Number(product.price)) *
+                  100
               )}
-              {product.stock > 0 && product.stock < 10 && (
-                <div className="absolute bottom-3 left-3 rounded-full bg-orange-500 px-3 py-1 text-xs font-bold text-white shadow-lg md:bottom-4 md:left-4">
-                  Only {product.stock} left
-                </div>
-              )}
-              {/* Mobile Image Counter */}
-              {product.images.length > 1 && (
-                <div className="absolute bottom-3 right-3 rounded-full bg-black/60 px-3 py-1 text-xs text-white backdrop-blur-sm md:hidden">
-                  1/{product.images.length}
-                </div>
-              )}
+              % OFF
             </div>
-            
-            {/* Thumbnails */}
-            {product.images.length > 1 && (
-              <div className="mt-3 flex gap-2 overflow-x-auto pb-2 md:grid md:grid-cols-4 md:gap-3">
-                {product.images.slice(1, 5).map((image, index) => (
-                  <div 
-                    key={image} 
-                    className="relative aspect-square min-w-[80px] overflow-hidden rounded-lg border-2 bg-muted hover:border-primary transition-colors cursor-pointer md:min-w-0"
-                  >
-                    <Image src={image} alt={`${product.name} - ${index + 2}`} fill className="object-cover" />
-                  </div>
-                ))}
+          )}
+
+          {/* Stock Badge */}
+          {index === 0 &&
+            product.stock > 0 &&
+            product.stock < 10 && (
+              <div className="absolute bottom-3 left-3 rounded-full bg-orange-500 px-3 py-1 text-xs font-bold text-white shadow-lg md:bottom-4 md:left-4">
+                Only {product.stock} left
               </div>
             )}
-          </div>
+
+          {/* Mobile Counter */}
+          {product.images.length > 1 && (
+            <div className="absolute bottom-3 right-3 rounded-full bg-black/60 px-3 py-1 text-xs text-white backdrop-blur-sm md:hidden">
+              {index + 1}/{product.images.length}
+            </div>
+          )}
+        </div>
+      ))}
+    </div>
+  </div>
+
+  {/* Thumbnail Navigation */}
+  {product.images.length > 1 && (
+    <div className="mt-3 flex gap-2 overflow-x-auto pb-2 md:grid md:grid-cols-4 md:gap-3">
+      {product.images.map((image, index) => (
+        <a
+          key={image}
+          href={`#image-${index}`}
+          className="relative aspect-square min-w-[80px] overflow-hidden rounded-lg border-2 bg-muted transition-colors hover:border-primary md:min-w-0"
+        >
+          <Image
+            src={image}
+            alt={`${product.name} ${index + 1}`}
+            fill
+            className="object-cover"
+          />
+        </a>
+      ))}
+    </div>
+  )}
+</div>
 
           {/* Product Info */}
           <div className="space-y-5">
