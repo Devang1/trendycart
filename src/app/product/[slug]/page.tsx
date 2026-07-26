@@ -197,7 +197,7 @@ export default async function ProductPage({ params }: { params: Promise<{ slug: 
     </div>
   )}
 </div>
-
+          </div>
           {/* Product Info */}
           <div className="space-y-5">
             {/* Brand & Seller */}
